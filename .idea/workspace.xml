@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0934142d-af49-4246-82fe-034d1a5f5e45" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lombok.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/delivery/data/DataGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/delivery/data/DataGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/netology/delivery/test/DeliveryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/netology/delivery/test/DeliveryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Homework_Netology/AVTOMAT/HomeWork5/PattDeliveryCardForm/build.gradle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework_Netology/AVTOMAT/HomeWork5/PattDeliveryCardForm/build.gradle&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Gradle.DeliveryTest.shouldSuccessfulPlanMeeting">
     <configuration name="DeliveryTest.shouldSuccessfulPlanMeeting" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -69,9 +64,14 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="app-card-delivery.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/artifacts/app-card-delivery.jar" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.DeliveryTest.shouldSuccessfulPlanMeeting" />
+        <item itemvalue="JAR Application.app-card-delivery.jar" />
       </list>
     </recent_temporary>
   </component>
